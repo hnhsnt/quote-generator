@@ -74,11 +74,6 @@ button:active {
     box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65);
 } 
 
-.twitter-button:hover {
-    color: #333;
-    background-color: #ddd;
-}
-
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
     .quote-container {
