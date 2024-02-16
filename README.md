@@ -1,5 +1,5 @@
 # Quote Generator
-The page was created to randomly generate quotes, and if wanted, can be posted on X.
+This repository was created to make a page that randomly generate quotes, and if wanted, can be posted on X.
 
 ## Github Page
 Link to the quote generator page: [https://hnhsnt.github.io/quote-generator/](https://hnhsnt.github.io/quote-generator/)
